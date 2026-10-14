@@ -1,0 +1,6 @@
+{
+  "name": "Band Baja Baarat - Wedding Planner Game",
+  "description": "A vibrant 2D Indian wedding management and planner simulation game featuring garden exploration, catering mini-games, crisis handling, worker management, and regional wedding adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
